@@ -9,7 +9,7 @@ If you need to contact me:
 
 **WECHAT is 24h Online**
 
-if you need bussiness, please call this account: https://www.github.com/PsBash-Team
+If you need business cooperation, please contact this account: https://www.github.com/PsBash-Team
 
 **I have no relationship with the account of the same name on GitLab.**
 
