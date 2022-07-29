@@ -1,5 +1,17 @@
-你好。  
-我的网站开在Github Pages上因为不用审核，还有项目的网站都会在Github上，但是代码和Release都在Gitee上。
+If you need to contact me: 
+1. Wechat: psbash
+2. QQ: 2438926613
+3. Telegram: @psbash
+4. Forum: http://www.pbbbs.ml
+5. Blog: https://www.psbyu.net (ps: server in China)
+6. Another 24h online Blog: https://www.freeplay.cf (ps: server in England)
+7. Phone Number: +86 185-9498-2002
+
+**WECHAT is 24h Online**
+
+if you need bussiness, please call this account: https://www.github.com/PsBash-Team
+
+**I have no relationship with the account of the same name on GitLab.**
 
 <!--
 **lghilb-yu/lghilb-yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
