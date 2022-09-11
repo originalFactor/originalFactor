@@ -6,8 +6,8 @@ If you need to contact me:
 5. Blog: https://www.psbyu.net (ps: server in China)
 6. Another 24h online Blog: https://www.freeplay.cf (ps: server in England)
 7. Phone Number: +86 185-9498-2002
+8. Alternate Forum: https://www.continuebbs.ga/
 
-**WECHAT is 24h Online**
 
 If you need business cooperation, please contact this account: https://www.github.com/PsBash-Team
 
