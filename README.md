@@ -2,8 +2,8 @@ If you need to contact me:
 1. Wechat: psbash
 2. QQ: 2438926613
 3. Telegram: @psbash
-4. Forum: http://www.pbbbs.ml
-5. Blog: https://www.psbyu.net (ps: server in China)
+4. Forum: http://www.psbyu.com
+5. Blog: https://www.psbyu.net (ps: server in China). or you can use cdn accelerated https://proxied.psbyu.net
 6. Another 24h online Blog: https://www.freeplay.cf (ps: server in England)
 7. Phone Number: +86 185-9498-2002
 8. Alternate Forum: https://www.continuebbs.ga/
