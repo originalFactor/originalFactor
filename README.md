@@ -1,6 +1,6 @@
 a developer.
 
-If you want to contact me, you can try to email: psbash@lghilb-yu.tk
+If you want to contact me, you can try to [email me](mailto:yxymsg@126.com)
 
 https://afdian.net/a/mcsmt_transfer_tool
 
