@@ -1,8 +1,6 @@
 a developer.
 
-If you want to contact me, you can try to [email me](mailto:yxymsg@126.com)
-
-我入驻了爱发电！https://afdian.net/a/syncfile
+If you want to contact me, you can try to [email me](mailto:psbyu@outlook.com)
 
 <!--
 **lghilb-yu/lghilb-yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
