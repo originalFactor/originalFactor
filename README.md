@@ -3,8 +3,6 @@
 [![GitHub Followers](https://img.shields.io/github/followers/originalFactor?style=social)](https://github.com/originalFactor?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/originalFactor?style=social)](https://github.com/originalFactor?tab=repositories)
 
-Most of my work isn't open-sourced because of legal reasons.
-
 ## My Status
 
 [![originalFactor's GitHub stats](https://github-readme-stats.vercel.app/api?username=originalFactor&show_icons=true&theme=radical)](https://github.com/originalFactor)
