@@ -5,6 +5,6 @@
 
 ## My Status
 
-[![originalFactor's GitHub stats](https://github-readme-stats.vercel.app/api?username=originalFactor&show_icons=true&theme=radical)](https://github.com/originalFactor)
+[![originalFactor's GitHub stats](https://github-readme-stats-chi-two-75.vercel.app/api?username=originalFactor&show_icons=true&theme=radical)](https://github.com/originalFactor)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=originalFactor&layout=compact)](https://github.com/originalFactor)
+[![Top Langs](https://github-readme-stats-chi-two-75.vercel.app/api/top-langs/?username=originalFactor&layout=compact)](https://github.com/originalFactor)
